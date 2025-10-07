@@ -1,6 +1,6 @@
 # VZstless as your friend or thinker
 
-- 🍥 Call this name as VictorZhang was signed up by somebody else...
+- 🍥 VictorZhangAI was blocked... This is my new home.
 - 👻 Learn whatever I love no matter which part of Computer Science.
 - 🐣 Libre & OpenSource aholic.
 - ⭐ Still an undergraduate and a crazyone.
