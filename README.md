@@ -3,7 +3,7 @@
 - 🍥 VictorZhangAI was blocked... This is my new home.
 - 👻 Learn whatever I love no matter which part of Computer Science.
 - 🐣 Libre & OpenSource aholic.
-- ⭐ Escape, escape, escape...
+- 🏳️‍⚧️ Escape, escape, escape...
 - 🐧 A human-like history book or cheatsheet.
 - ✉️ vzstless@qq.com
 - 🍀I work so I live.
