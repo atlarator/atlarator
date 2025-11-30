@@ -8,8 +8,8 @@
 - ✉️ vzstless@qq.com
 - 🍀I work so I live.
 
-The Story of past:  
-@deepin-community 
+The story of past:  
+[@deepin-community](https://github.com/deepin-community)
 
 GPG Public Key ID: 20BC01681DED4C9C5C4CB83F6D2C840D51DB624B  
   
