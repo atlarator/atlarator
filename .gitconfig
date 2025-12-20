@@ -1,1 +1,8 @@
-../.gitconfig
+[user]
+	name = Lumiere
+	email = vzstless@qq.com
+	signingkey = 20BC01681DED4C9C5C4CB83F6D2C840D51DB624B
+[gpg]
+	program = /run/current-system/sw/bin/gpg
+[core]
+	editor = vim
