@@ -1,0 +1,13 @@
+[Unit]
+Description=Create dn42-dummy interface
+After=network.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/sbin/ip link add dn42-dummy type dummy
+ExecStart=/usr/sbin/ip link set dev dn42-dummy up
+ExecStart=/usr/sbin/ip addr add dev dn42-dummy 172.21.105.161/27
+ExecStart=/usr/sbin/ip addr add dev dn42-dummy fd50:ffed:6425:53::1/48
+
+[Install]
+WantedBy=multi-user.target
