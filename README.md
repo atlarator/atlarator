@@ -1,7 +1,7 @@
 # VZstless as your friend or thinker
 
 - 🍥 VictorZhangAI was blocked... This is my new home.
-- ✉️ Contact me through my [contacts](contacts.vzstless.moe) page.
+- ✉️ Contact me through my [contacts](https://contacts.vzstless.moe) page.
 - 👻 Learn whatever I love no matter which part of Computer Science.
 - 🐣 Libre & OpenSource aholic.
 - 🏳️‍⚧️ Escape, escape, escape...
