@@ -73,3 +73,12 @@ nnoremap <Left>  :echoe "Use h"<CR>
 nnoremap <Right> :echoe "Use l"<CR>
 nnoremap <Up>    :echoe "Use k"<CR>
 nnoremap <Down>  :echoe "Use j"<CR>
+
+call plug#begin()
+
+" List your plugins here
+Plug 'wadackel/vim-dogrun'
+
+call plug#end()
+
+colorscheme dogrun
