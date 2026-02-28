@@ -16,6 +16,8 @@ GPG Public Key ID: 20BC01681DED4C9C5C4CB83F6D2C840D51DB624B
 [blog](https://vzstless.moe)  [contacts](https://contacts.vzstless.moe)  [alert](https://status.vzstless.moe)
 
 MY MASTODON SERVER: [aineias.cc](https://aineias.cc)
+
+你好，我吃一口！ / Feed me! [buy-me-a-coffee](https://buymeacoffee.com/vzstless)
   
   ![Static Badge](https://img.shields.io/badge/telegram-VZstless-blue) ![Static Badge](https://img.shields.io/badge/Discord-VZstless-purple) ![Static Badge](https://img.shields.io/badge/twitter-VZstless-cyan)
 
