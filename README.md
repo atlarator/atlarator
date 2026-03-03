@@ -18,7 +18,3 @@ GPG Public Key ID: 20BC01681DED4C9C5C4CB83F6D2C840D51DB624B
 MY MASTODON SERVER: [aineias.cc](https://aineias.cc)
 
 你好，我吃一口！ / Feed me! [buy-me-a-coffee](https://buymeacoffee.com/vzstless)
-  
-  ![Static Badge](https://img.shields.io/badge/telegram-VZstless-blue) ![Static Badge](https://img.shields.io/badge/Discord-VZstless-purple) ![Static Badge](https://img.shields.io/badge/twitter-VZstless-cyan)
-
-![skills](https://skillicons.dev/icons?i=arch,ubuntu,debian,nix,plan9,bash,powershell,cloudflare,python,julia,javascript,scala,go,c,haskell,ts,regex,react,fastapi,git,github,githubactions,notion,ps,htmx,jquery,vscode,vim,azure,emacs,)
