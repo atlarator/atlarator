@@ -11,7 +11,7 @@
 The story of past:  
 [@deepin-community](https://github.com/deepin-community)
 
-GPG Public Key ID: 20BC01681DED4C9C5C4CB83F6D2C840D51DB624B  
+GPG Public Key ID: see in the [contacts](https://contacts.vzstless.moe) page
   
 [blog](https://vzstless.moe)  [contacts](https://contacts.vzstless.moe)  [alert](https://status.vzstless.moe)
 
