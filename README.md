@@ -7,6 +7,7 @@
 - 🏳️‍⚧️ Escape, escape, escape...
 - 🐧 A human-like history book or cheatsheet.
 - 🍀I work so I live.
+- 😈 Get Fxxked verified by [systemd](https://github.com/systemd/systemd/pull/41219)
 
 The story of past:  
 [@deepin-community](https://github.com/deepin-community)
