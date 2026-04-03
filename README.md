@@ -18,4 +18,7 @@ GPG Public Key ID: see in the [contacts](https://contacts.vzstless.moe) page
 
 MY MASTODON SERVER: [aineias.cc](https://aineias.cc)
 
+### Tor Nodes:
+Urania: [D6259C6EF0590EBCC7DF597AA635D6822B803351](https://metrics.torproject.org/rs.html#details/D6259C6EF0590EBCC7DF597AA635D6822B803351)
+
 你好，我吃一口！ / Feed me! [buy-me-a-coffee](https://buymeacoffee.com/vzstless)
