@@ -18,6 +18,11 @@ GPG Public Key ID: see in the [contacts](https://contacts.vzstless.moe) page
 
 MY MASTODON SERVER: [aineias.cc](https://aineias.cc)
 
+### NixOS Configurations
+
+[ATconsole](https://github.com/atlarator/ATconsole): ThinkPad E14 Ultra5 228V with NixOS KDE
+[wirbelwind](https://github.com/atlarator/wirbelwind): ROG Zephyrus G14 2024 with NixOS Gnome
+
 ### Tor Nodes:
 Urania: [D6259C6EF0590EBCC7DF597AA635D6822B803351](https://metrics.torproject.org/rs.html#details/D6259C6EF0590EBCC7DF597AA635D6822B803351)  
 Viola: [EA36DFD1D39EE2744C29C672DDD7A94F4D5B7670](https://metrics.torproject.org/rs.html#details/EA36DFD1D39EE2744C29C672DDD7A94F4D5B7670)
