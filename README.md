@@ -20,7 +20,7 @@ MY MASTODON SERVER: [aineias.cc](https://aineias.cc)
 
 ### NixOS Configurations
 
-[ATconsole](https://github.com/atlarator/ATconsole): ThinkPad E14 Ultra5 228V with NixOS KDE  
+[ATconsole](https://github.com/atlarator/ATconsole): ThinkPad E14 Ultra5 228V with NixOS Xfce  
 [wirbelwind](https://github.com/atlarator/wirbelwind): ROG Zephyrus G14 2024 with NixOS Gnome  
 
 ### Tor Nodes:
