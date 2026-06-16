@@ -21,7 +21,7 @@ MY MASTODON SERVER: [aineias.cc](https://aineias.cc)
 ### NixOS Configurations
 
 [ATconsole](https://github.com/atlarator/ATconsole): ThinkPad E14 Ultra5 228V with NixOS niri  
-[wirbelwind](https://github.com/atlarator/wirbelwind): ROG Zephyrus G14 2024 with NixOS Gnome  
+Trying to rebuild ATconsole & wirbelwind into one ...
 
 ### Tor Nodes:
 Urania: [D6259C6EF0590EBCC7DF597AA635D6822B803351](https://metrics.torproject.org/rs.html#details/D6259C6EF0590EBCC7DF597AA635D6822B803351)  
