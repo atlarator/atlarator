@@ -10,7 +10,7 @@
 - 😈 Get Fxxked verified by [systemd](https://github.com/systemd/systemd/pull/41219)
 
 The story of past:  
-[@deepin-community](https://github.com/deepin-community)
+[@deepin-community](https://github.com/deepin-community) [@intel](https://github.com/intel)  
 
 GPG Public Key ID: see in the [contacts](https://contacts.vzstless.moe) page
   
